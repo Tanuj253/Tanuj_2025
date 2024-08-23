@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: Tanuj Home 
 description: Home Page
 hide: true
 ---
