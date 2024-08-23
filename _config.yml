@@ -1,9 +1,9 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+title: Tanuj's Pages 
+description: "Repo for 2025"
+owner_name: Tanujsai Nimmagadda
+github_username: Tanuj253
+github_repo: "Tanuj_2025" 
+baseurl: "/Tanuj_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
